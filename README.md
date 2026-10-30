@@ -25,7 +25,9 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
+
 Developed by: SIVA SAKTHI A
+
 RegisterNumber:  212224223005
 */
 
